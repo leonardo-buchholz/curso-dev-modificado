@@ -1,0 +1,32 @@
+body{
+    background: #0075bf;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bts {
+    text-align: center;
+    margin-top: 15%;
+}
+
+.click{
+    text-decoration: none;
+    font-size: 25px;
+    padding: 20px;
+    transition: 0.2s;
+    color: #fff;
+
+}
+
+.click:hover{
+    font-size: 30px;
+    background: black;
+    text-decoration: none;
+    color: white;   
+}
+
+.th1{
+    text-align: center;
+    margin-top: 10%;
+    color: #fff;
+}
+
